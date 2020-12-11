@@ -1,0 +1,5 @@
+Gerenciador de Horarios, ele vai agendar o que a pessoa vai fazer no dia
+
+A pessoa vai colocar: DIA, HORA, TASK, MINUTOS
+
+OPÇÃO 5 EXCLUIR AGENDA(zerar), também marcar como MARCADO as que já passaram a data

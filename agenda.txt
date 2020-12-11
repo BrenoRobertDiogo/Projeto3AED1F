@@ -1,0 +1,14 @@
+11,10,18,Almoçar
+10,10,35,Testar isso
+10,10,40,Brebo
+10,10,52,Esperar
+10,10,59,Fazer a ESO
+10,10,20,Teste
+10,12,32,Lavar a louça
+10,12,40,TASK TESTE
+10,12,59,Testar o código
+10,21,50,qaaaa
+12,12,12,12
+12,21,54,Nada
+11,21,57,Nada
+11,21,59,Teste
